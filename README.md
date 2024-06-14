@@ -3,3 +3,6 @@
 
 Output:
 ![alt text](https://github.com/RennZey/UAS_AP/blob/main/Output%20(2).png?raw=true)
+
+Link Video:
+https://drive.google.com/file/d/1FW54gP7CbxcgZdwyZpbFivLaxsAq-1-r/view?usp=drive_link
